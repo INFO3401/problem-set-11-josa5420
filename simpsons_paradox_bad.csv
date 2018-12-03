@@ -1,0 +1,13 @@
+Gender,Mean_Age,Admitted,Rejected,Department
+Female,25,89,19,A
+Female,22,17,8,B
+Female,24,202,391,C
+Female,23,131,244,D
+Female,24,94,299,E
+Female,24,24,317,F
+Male,22,512,313,A
+Male,22,353,207,B
+Male ,23,120,205,C
+Male ,24,138,279,D
+Male ,22,53,138,E
+Male ,25,22,351,F
