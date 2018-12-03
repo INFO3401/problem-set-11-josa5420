@@ -5,8 +5,9 @@ import scipy
 import statsmodels
 import statsmodels.api as sm
 from statsmodels.formula.api import ols
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import seaborn as sb
+import operator
 
 import altair as alt
 alt.renderers.enable('notebook')
